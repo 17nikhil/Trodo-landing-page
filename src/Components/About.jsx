@@ -7,20 +7,8 @@ function About(props) {
         threshold: 0.4,
       });
 
-    /* return (
-        <div id='about'>
-            <div className='about-image'>
-                <img src={props.image} alt='supporting image for why trodo?' />
-            </div>
-            <div className='about-text'>
-                <img src={props.icon} alt='icon for the feature' />
-                <h2>{props.title}</h2>
-                <p>{props.details}</p>
-            </div>
-        </div>
-    ) */
-
     const renderContent = () => {
+        /* If flipped is true, the image is on the left or else it's on the right */
         if(!props.flipped){
             return <>
                 <div id='about'>

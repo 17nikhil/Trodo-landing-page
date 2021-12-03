@@ -15,6 +15,7 @@ function Pricing() {
                 <h3>Trodo<span className='pro'>Pro</span></h3>
                 <div className='price'>
                     <h1>$0<span className='month'>/month</span></h1>
+                    {/* The text fades in when the user scrolls into this section */}
                     <div className={inView ? "p-slider p-slider--zoom" : "p-slider"} ref={ref}>
                         <p>Track all your tasks, goals and events simultaneously</p>
                         <p>Tag all your tasks, goals and events to personalized goals</p>

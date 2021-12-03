@@ -8,7 +8,7 @@ function Header(){
             <Navbar />
             <div className="name">
                 <HeaderText />
-                <h3>Increase your productivity</h3>
+                <h1>Increase your productivity</h1>
                 <p className="details">REALLY boost your productivty. We’re not kidding. 
                 Keep track of your to-dos and tag them to your goals.</p>
                 <a href='#download' className='cv-btn'>Download Now</a>

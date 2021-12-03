@@ -12,6 +12,7 @@ function Feature() {
       });
 
     return (
+        /* The features fade in when the user scrolls to the section */
         <div className={inView ? "slider slider--zoom" : "slider"} ref={ref}>
             <div id='features'>
                 <div className="a-container">
