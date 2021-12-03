@@ -625,6 +625,10 @@ font-size:2.5rem;
   .menu-icon{
     display:block;
   }
+
+  .menu-icon h1{
+    display: none;
+  }
   nav{
       justify-content: space-between;
       height: 65px;
