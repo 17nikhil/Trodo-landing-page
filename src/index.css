@@ -126,7 +126,7 @@ nav .menu-btn,
   -webkit-animation: typedjsBlink 0.7s infinite;
   animation: typedjsBlink 0.7s infinite;
 }
- @keyframes typedjsBlink{
+@keyframes typedjsBlink{
   50% { opacity: 0.0; }
 }
 @-webkit-keyframes typedjsBlink{
