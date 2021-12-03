@@ -11,7 +11,7 @@ function Download() {
 
     return (
         <div id='download'>
-            <h3>Download the future of productivity</h3>
+            <h1>Download the future of productivity</h1>
             <div className='d-container'>
                 <div className='d-box'>
                     <div className='qr-img'>

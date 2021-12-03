@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b046ef6d.chunk.css",
+    "main.js": "/static/js/main.ed9fd124.chunk.js",
+    "main.js.map": "/static/js/main.ed9fd124.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2f2f84b0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2f2f84b0.js.map",
+    "static/js/2.3db8e370.chunk.js": "/static/js/2.3db8e370.chunk.js",
+    "static/js/2.3db8e370.chunk.js.map": "/static/js/2.3db8e370.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.b046ef6d.chunk.css.map": "/static/css/main.b046ef6d.chunk.css.map",
+    "static/js/2.3db8e370.chunk.js.LICENSE.txt": "/static/js/2.3db8e370.chunk.js.LICENSE.txt",
+    "static/media/android.a99ebebd.svg": "/static/media/android.a99ebebd.svg",
+    "static/media/feature_1_icon.e8012997.svg": "/static/media/feature_1_icon.e8012997.svg",
+    "static/media/feature_2_icon.c12e2e25.svg": "/static/media/feature_2_icon.c12e2e25.svg",
+    "static/media/feature_3_icon.02e3c806.svg": "/static/media/feature_3_icon.02e3c806.svg",
+    "static/media/index.css": "/static/media/sidekick_image_mq.4799ed05.svg",
+    "static/media/ios.feb99a3b.svg": "/static/media/ios.feb99a3b.svg",
+    "static/media/map.b2d5845e.svg": "/static/media/map.b2d5845e.svg",
+    "static/media/privacy.bdf8744e.svg": "/static/media/privacy.bdf8744e.svg",
+    "static/media/simple.00a0efd8.svg": "/static/media/simple.00a0efd8.svg",
+    "static/media/trodo_01.f58c7ffe.svg": "/static/media/trodo_01.f58c7ffe.svg",
+    "static/media/trodo_02.0e7b37f8.svg": "/static/media/trodo_02.0e7b37f8.svg",
+    "static/media/trodo_03.335db965.svg": "/static/media/trodo_03.335db965.svg",
+    "static/media/trodo_logo.af7b5621.svg": "/static/media/trodo_logo.af7b5621.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f2f84b0.js",
+    "static/js/2.3db8e370.chunk.js",
+    "static/css/main.b046ef6d.chunk.css",
+    "static/js/main.ed9fd124.chunk.js"
+  ]
+}

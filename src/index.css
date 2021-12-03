@@ -456,16 +456,17 @@ width: 600px;
 }
 
 .pricingBox h3{
-  color:#505050;
+  color:#1d1d1d;
   font-size: 20px;
   font-family: 'Montserrat', sans-serif;
 }
 .price h1{
-  color: #1d1d1d;;
+  color: #505050;;
   font-size: 40px;
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
   margin-top: -20px;
+  padding-top: 10px;
 }
 .price p{
   color: #505050;
@@ -506,7 +507,7 @@ font-size:2.5rem;
   align-items: center;
   padding: 30px 0px;
 }
-#download h3{
+#download h1{
   font-size:2.5rem;
     margin:10px;
     color: #4D4D4D;

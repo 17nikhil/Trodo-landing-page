@@ -24,6 +24,7 @@ function Navbar() {
             </a>
             <input type="checkbox" className='menu-btn' id='menu-btn' />
             <label className='menu-icon' for='menu-btn'>
+                <h1> </h1>
                 <span className='nav-icon'></span>
             </label>
             <ul className="menu">
